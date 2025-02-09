@@ -1,23 +1,21 @@
 # WetCoast Songpool
 
 ## Isabelle
-* Pride and Joy
-* Hold on
-* I'd rather Go blind
-* Ist this Love
-* Love is a losing Game
-* Dreams
-* Sittin on the Dock of the bay
-
-* What you won't do for love
-* No,No,No
-
+* Pride and Joy [E]
+* Hold on [C]
+* I'd rather Go blind [A]
+* Ist this Love [Gbm]
+* Love is a losing Game [C]
+* Dreams [C]
+* Sittin on the Dock of the bay [G]
+* What you won't do for love [Gbm]
+* No,No,No [Am]
 * ~~Love Love Love~~
 * ~~Aint No sunshine~~
 * ~~Back to black~~
 
 ## Francis:
-* Time is on my Side
+* Time is on my Side [E]
 
 ## Matthias:
-* You Don't Love me  
+* You Don't Love me [Am]
