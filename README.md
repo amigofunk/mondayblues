@@ -1,4 +1,4 @@
-# WetCoast Songpool
+# Songpool
 
 ## Isabelle
 * Pride and Joy [E]
