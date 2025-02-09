@@ -1,21 +1,21 @@
 # Songpool
 
 ## Isabelle
-* Pride and Joy [E]
+* Pride and joy [E]
 * Hold on [C]
-* I'd rather Go blind [A]
-* Ist this Love [Gbm]
-* Love is a losing Game [C]
+* I'd rather go blind [A]
+* Ist this love [Gbm]
+* Love is a losing game [C]
 * Dreams [C]
-* Sittin on the Dock of the bay [G]
+* Sittin on the dock of the bay [G]
 * What you won't do for love [Gbm]
-* No,No,No [Am]
+* No,no,no [Am]
 * ~~Love Love Love~~
 * ~~Aint No sunshine~~
 * ~~Back to black~~
 
 ## Francis:
-* Time is on my Side [E]
+* Time is on my side [E]
 
 ## Matthias:
-* You Don't Love me [Am]
+* You don't love me [Am]
