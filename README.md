@@ -1,2 +1,2 @@
-# wetcoast
+# Wetcoast
 Songpool
