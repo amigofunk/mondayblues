@@ -1,8 +1,8 @@
 # WetCoast Songpool
 
 ## Isabelle
-Pride and Joy
-Hold on
+* Pride and Joy
+* Hold on
 I'd rather Go blind
 Ist this Love
 Love is a losing Game
@@ -16,8 +16,8 @@ No,No,No
 ~~Aint No sunshine~~
 ~~Back to black~~
 
-Francis:
+## Francis:
 Time is on my Side
 
-Matthias:
+## Matthias:
 You Don't Love me  
