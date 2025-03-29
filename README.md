@@ -1,4 +1,4 @@
-# Songpool X
+# Songpool
 
 ## Isabelle
 * Pride and joy [E]
